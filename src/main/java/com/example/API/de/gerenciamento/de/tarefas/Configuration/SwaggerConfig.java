@@ -21,4 +21,5 @@ public class SwaggerConfig {
          "Victor Vicente Alves - victor.alves26@fatec.sp.gov.br\n")
          .version("v0.0.1")
          .license(new License()
-           .name("Apache 2.0").url("http://springdoc.org")));
+           .name("Apache 2.0").url("http://springdoc.org")));    
+}}
