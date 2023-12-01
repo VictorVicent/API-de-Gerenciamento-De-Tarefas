@@ -4,10 +4,10 @@ Uma API que permita o gerenciamento de uma lista de to-dos
 
 ## Desenvolvedores
 
-- [@André](https://github.com/KnockDown737)
-- [@Victor](https://github.com/VictorVicent)
-- [@Diego](https://github.com/DiegoSampaio505)
-- [@Pedro](https://github.com/PedroEBC)
+- [@André Luiz F. Martins](https://github.com/KnockDown737)
+- [@Victor Vicente](https://github.com/VictorVicent)
+- [@Diego Sampaio](https://github.com/DiegoSampaio505)
+- [@Pedro Estevam](https://github.com/PedroEBC)
 
 ##  Documentação da API
 
